@@ -1,0 +1,5 @@
+{
+    "artifactBucket": "bioinfomatics-sequencing-data",
+    "jobMemoryLimit": 2048,
+    "jobCpuLimit": 2
+}
